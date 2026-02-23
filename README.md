@@ -4,3 +4,5 @@ A game that uses comics to teach.</br>
 
 ![alt text](https://github.com/RussiSunni/ECD-App/blob/main/Screenshots/ECDApp.gif "Screenshot gif")
 
+Compiled from a number of existing minigames.
+
